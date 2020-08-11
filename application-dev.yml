@@ -1,3 +1,4 @@
+profile: dev
 server:
   port: 9999
 name: yzgu-dev
